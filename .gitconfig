@@ -113,3 +113,6 @@
 	showPatch = true
 [log]
 	date = relative
+[user]
+	name = Mark Hussey
+	email = mark@hussey.digital
